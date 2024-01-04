@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="17.18" tests="1" skipped="0" failures="1" errors="0">
+<testcase classname="Login" name="Successfully able to login with valid details" time="16.814">
+<failure/>
+<system-out><![CDATA[
+Given I launch the mobile application.......................................passed
+When I am on the Welcome Screen.............................................passed
+And I click the Register button.............................................undefined
+Then Register Page should be visible........................................skipped
+When I enter your name field................................................skipped
+And I enter a valid email address...........................................skipped
+And I click the selectCountry Dropdown......................................skipped
+Then Search Country page should be visible..................................skipped
+When I search a country name................................................skipped
+Then The searched country should be listed..................................skipped
+When I click searched country...............................................skipped
+Then Expected country code should visible...................................skipped
+When I enter a valid password...............................................skipped
+And I check Term and Conditions.............................................skipped
+And I clik on Register button...............................................skipped
+Then User should proceed to otp screen......................................skipped
+]]></system-out>
+</testcase>
+</testsuite>
